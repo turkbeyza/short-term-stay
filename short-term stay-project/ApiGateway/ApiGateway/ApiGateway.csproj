@@ -8,10 +8,18 @@
 
     <ItemGroup>
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.20" />
+        <PackageReference Include="MMLib.SwaggerForOcelot" Version="4.8.0" />
         <PackageReference Include="Ocelot" Version="24.1.0" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
     </ItemGroup>
 
-
+<ItemGroup>
+  <Content Update="ocelot.json">
+    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+  </Content>
+  <Content Update="ocelot.SwaggerEndPoints.json">
+    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+  </Content>
+</ItemGroup>
 
 </Project>

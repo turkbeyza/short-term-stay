@@ -1,0 +1,15 @@
+{
+    "SwaggerEndPoints": [
+      {
+        "Key": "shortstay-api",
+        "TransformByOcelotConfig": false,
+        "Config": [
+          {
+            "Name": "Short Stay API",
+            "Version": "v1",
+            "Url": "https://wa-short-term.azurewebsites.net/swagger/v1/swagger.json"
+          }
+        ]
+      }
+    ]
+  }

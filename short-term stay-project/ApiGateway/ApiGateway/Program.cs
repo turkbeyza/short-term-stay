@@ -1,5 +1,7 @@
 using System.Threading.RateLimiting;
 using Microsoft.AspNetCore.RateLimiting;
+using MMLib.SwaggerForOcelot.DependencyInjection;
+using MMLib.SwaggerForOcelot.Middleware;
 using Ocelot.DependencyInjection;
 using Ocelot.Middleware;
 
@@ -8,6 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Configuration
     .SetBasePath(builder.Environment.ContentRootPath)
     .AddJsonFile("ocelot.json", optional: false, reloadOnChange: true)
+    .AddJsonFile("ocelot.SwaggerEndPoints.json", optional: false, reloadOnChange: true)
     .AddEnvironmentVariables();
 
 builder.Services.AddRateLimiter(options =>
@@ -21,7 +24,7 @@ builder.Services.AddRateLimiter(options =>
         var ip = context.Connection.RemoteIpAddress?.ToString() ?? "unknown";
 
         var isListingsEndpoint =
-            method == "GET" &&
+            method.Equals("GET", StringComparison.OrdinalIgnoreCase) &&
             path.Equals("/api/v1/Listings", StringComparison.OrdinalIgnoreCase);
 
         if (!isListingsEndpoint)
@@ -43,12 +46,21 @@ builder.Services.AddRateLimiter(options =>
 });
 
 builder.Services.AddOcelot(builder.Configuration);
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerForOcelot(builder.Configuration);
 
 var app = builder.Build();
 
 app.UseHttpsRedirection();
-
 app.UseRateLimiter();
+
+app.UseSwagger();
+
+app.UseSwaggerForOcelotUI(opt =>
+{
+    opt.PathToSwaggerGenerator = "/swagger/docs";
+});
 
 await app.UseOcelot();
 
