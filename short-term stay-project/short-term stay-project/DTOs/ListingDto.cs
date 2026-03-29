@@ -8,6 +8,7 @@ public record ListingQueryRequest(
     int? NoOfPeople, 
     string? Country, 
     string? City,
+    double? MinRating,
     int PageNumber = 1,
     int PageSize = 10
 );

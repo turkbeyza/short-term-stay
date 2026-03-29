@@ -22,9 +22,9 @@ public class AdminController : ControllerBase
     }
 
     [HttpGet("listings/report")]
-    public async Task<IActionResult> GetReport([FromQuery] string? country, [FromQuery] string? city, [FromQuery] int pageNumber = 1, [FromQuery] int pageSize = 10)
+    public async Task<IActionResult> GetReport([FromQuery] string? country, [FromQuery] string? city, [FromQuery] double? minRating, [FromQuery] int pageNumber = 1, [FromQuery] int pageSize = 10)
     {
-        var response = await _listingService.GetReportAsync(country, city, pageNumber, pageSize);
+        var response = await _listingService.GetReportAsync(country, city, minRating, pageNumber, pageSize);
         return Ok(response);
     }
 

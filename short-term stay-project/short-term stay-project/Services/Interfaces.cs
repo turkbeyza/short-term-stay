@@ -13,7 +13,7 @@ public interface IListingService
 {
     Task<ListingResponse> CreateListingAsync(int hostId, ListingCreateRequest request);
     Task<IEnumerable<ListingResponse>> QueryListingsAsync(ListingQueryRequest request);
-    Task<IEnumerable<ListingReportResponse>> GetReportAsync(string? country, string? city, int pageNumber, int pageSize);
+    Task<IEnumerable<ListingReportResponse>> GetReportAsync(string? country, string? city, double? minRating, int pageNumber, int pageSize);
 }
 
 public interface IBookingService

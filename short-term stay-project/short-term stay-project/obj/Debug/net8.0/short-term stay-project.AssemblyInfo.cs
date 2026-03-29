@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("short-term stay-project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c218d6f2256cb2e816bee403ef85e79a9f5c7f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc2c02898b8d1450524344c33a01010260b242a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("short-term stay-project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("short-term stay-project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
