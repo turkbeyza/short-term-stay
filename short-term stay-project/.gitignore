@@ -1,0 +1,37 @@
+# .NET Core ignore
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Dd]ebug/
+[Tt]estResults/
+publish/
+*.exe
+*.dll
+*.pdb
+*.log
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# SQL Server
+*.mdf
+*.ldf
+*.ndf
+
+# Project specific
+project.md
+appsettings.Development.json
+.DS_Store
+
+# Tooling
+.config/
