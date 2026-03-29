@@ -26,6 +26,8 @@ The project is built using a **Service-Oriented Architecture** to ensure separat
 ---
 
 ## 📊 Data Model (ER Diagram)
+<img width="458" height="783" alt="er diagram" src="https://github.com/user-attachments/assets/f797fa3e-4d3e-445a-a5ff-f3b21f5f5f3b" />
+
 
 
 
