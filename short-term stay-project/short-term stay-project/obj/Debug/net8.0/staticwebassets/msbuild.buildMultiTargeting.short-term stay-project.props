@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/short-term stay-project.props" />
+</Project>

@@ -1,0 +1,33 @@
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/appsettings.Development.json
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/appsettings.json
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project.deps.json
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project.runtimeconfig.json
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project.dll
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project.pdb
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.csproj.AssemblyReference.cache
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.AssemblyInfoInputs.cache
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.AssemblyInfo.cs
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.csproj.CoreCompileInputs.cache
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.MvcApplicationPartsAssemblyInfo.cs
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets.build.json
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets.development.json
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets/msbuild.short-term stay-project.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets/msbuild.build.short-term stay-project.props
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.short-term stay-project.props
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.short-term stay-project.props
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/scopedcss/bundle/short-term stay-project.styles.css
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-te.2E9FBB0B.Up2Date
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.dll
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/refint/short-term stay-project.dll
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.pdb
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.genruntimeconfig.cache
+/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/ref/short-term stay-project.dll

@@ -1,0 +1,6 @@
+@short_term_stay_project_HostAddress = http://localhost:5005
+
+GET {{short_term_stay_project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
