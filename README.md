@@ -6,7 +6,7 @@ A comprehensive .NET 8 Web API for a short-term stay platform (Airbnb-like), fea
 - **GitHub Repository**: [https://github.com/turkbeyza/short-term-stay]
 - **Deployed Swagger UI**: [https://wa-short-term-gateway-faegbyf9exh7d7bz.switzerlandnorth-01.azurewebsites.net/swagger/index.html]
 - **Load Test Report**: [LOAD-TEST-REPORT.md](load-test/LOAD-TEST-REPORT.md)
-- **Presentation Video**: [google.com]
+- **Presentation Video**: [https://www.youtube.com/watch?v=Q4FgitvzuLY]
 ---
 
 ## 🏗️ Design & Architecture
