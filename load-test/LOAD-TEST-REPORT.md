@@ -22,6 +22,10 @@ The load testing was performed using **k6**. The test script (`load-tests/load-t
 
 ## 3. Load Test Results
 
+![graph1](https://github.com/user-attachments/assets/61bf4a14-2b74-41d1-93a2-e2aabe920fe3)
+![graph2](https://github.com/user-attachments/assets/155ca316-5d9f-4430-aa06-956cc94e7700)
+![graph3](https://github.com/user-attachments/assets/8e747ffd-7a02-418a-9fc9-cc325d8275bc)
+
 
 
 ## 4. Analysis
