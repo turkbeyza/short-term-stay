@@ -1,10 +1,11 @@
 # Short-Term Stay API Project
 
-A comprehensive .NET 8 Web API for a short-term stay platform (Airbnb-like), featuring Host, Guest, and Admin functionalities with JWT authentication and Ocelot API Gateway.
+A comprehensive .NET 8 Web API for a short-term stay platform (Airbnb-like), featuring Host, Guest, and Admin functionalities with JWT authentication. The solution consists of two projects: the **main API** (controllers, services, EF Core) and an **Ocelot API Gateway** for routing, rate limiting, and Swagger aggregation.
 
 ## 🔗 Project Links
 - **GitHub Repository**: [https://github.com/turkbeyza/short-term-stay]
 - **Deployed Swagger UI**: [https://wa-short-term-gateway-faegbyf9exh7d7bz.switzerlandnorth-01.azurewebsites.net/swagger/index.html]
+- **Load Test Report**: [LOAD-TEST-REPORT.md](load-test/LOAD-TEST-REPORT.md)
 - **Presentation Video**: [google.com]
 ---
 
@@ -37,9 +38,8 @@ The project is built using a **Service-Oriented Architecture** to ensure separat
 ## 📝 Assumptions & Decisions
 
 1. **CSV Bulk Upload**: Assumes a header format of `NoOfPeople,Country,City,Price`.
-2. **Simplified Security**: For this project phase, password hashing is simplified (mocked).
-3. **Paging**: Default page size is set to 10 for listings and reports.
-4. **Rate Limiting**: Per requirements, rate limiting logic is delegated to the API Gateway layer.
+2. **Paging**: Default page size is set to 10 for listings and reports.
+3. **Rate Limiting**: Per requirements, rate limiting logic is delegated to the API Gateway layer.
 
 ---
 
