@@ -1,184 +1,189 @@
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/appsettings.Development.json
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/appsettings.json
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project.deps.json
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project.runtimeconfig.json
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project.pdb
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.OpenApi.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.csproj.AssemblyReference.cache
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.GeneratedMSBuildEditorConfig.editorconfig
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.AssemblyInfoInputs.cache
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.AssemblyInfo.cs
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.csproj.CoreCompileInputs.cache
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.MvcApplicationPartsAssemblyInfo.cs
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.MvcApplicationPartsAssemblyInfo.cache
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets.build.json
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets.development.json
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets/msbuild.short-term stay-project.Microsoft.AspNetCore.StaticWebAssets.props
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets/msbuild.build.short-term stay-project.props
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.short-term stay-project.props
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.short-term stay-project.props
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets.pack.json
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/scopedcss/bundle/short-term stay-project.styles.css
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-te.2E9FBB0B.Up2Date
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/refint/short-term stay-project.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.pdb
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.genruntimeconfig.cache
-/Users/beyzaturk/Desktop/short-term stay-project/short-term stay-project/short-term stay-project/obj/Debug/net8.0/ref/short-term stay-project.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/appsettings.Development.json
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/appsettings.json
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project.deps.json
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project.runtimeconfig.json
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project.pdb
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Asp.Versioning.Abstractions.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Asp.Versioning.Http.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Asp.Versioning.Mvc.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Asp.Versioning.Mvc.ApiExplorer.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Azure.Core.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Azure.Identity.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/CsvHelper.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Humanizer.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Identity.Client.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.OpenApi.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Mono.TextTemplating.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.ClientModel.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.CodeDom.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Composition.AttributedModel.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Composition.Convention.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Composition.Hosting.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Composition.Runtime.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Composition.TypedParts.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Drawing.Common.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Memory.Data.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Runtime.Caching.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Security.Permissions.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Windows.Extensions.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.csproj.AssemblyReference.cache
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.GeneratedMSBuildEditorConfig.editorconfig
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.AssemblyInfoInputs.cache
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.AssemblyInfo.cs
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.csproj.CoreCompileInputs.cache
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.MvcApplicationPartsAssemblyInfo.cs
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.MvcApplicationPartsAssemblyInfo.cache
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.sourcelink.json
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets.build.json
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets.development.json
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets/msbuild.short-term stay-project.Microsoft.AspNetCore.StaticWebAssets.props
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets/msbuild.build.short-term stay-project.props
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.short-term stay-project.props
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.short-term stay-project.props
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets.pack.json
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/scopedcss/bundle/short-term stay-project.styles.css
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-te.2E9FBB0B.Up2Date
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/refint/short-term stay-project.dll
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.pdb
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.genruntimeconfig.cache
-/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/ref/short-term stay-project.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/appsettings.Development.json
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/appsettings.json
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project.deps.json
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project.runtimeconfig.json
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/short-term stay-project.pdb
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Asp.Versioning.Abstractions.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Asp.Versioning.Http.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Asp.Versioning.Mvc.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Asp.Versioning.Mvc.ApiExplorer.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Azure.AI.OpenAI.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Azure.Core.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Azure.Identity.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/CsvHelper.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Google.Apis.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Google.Apis.Auth.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Google.Apis.Core.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Google.GenAI.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Humanizer.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Bcl.HashCode.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.AI.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.AI.Abstractions.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.AI.OpenAI.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Extensions.VectorData.Abstractions.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.SemanticKernel.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.SemanticKernel.Abstractions.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.SemanticKernel.Connectors.AzureOpenAI.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.SemanticKernel.Connectors.Google.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.SemanticKernel.Connectors.OpenAI.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.SemanticKernel.Core.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ModelContextProtocol.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ModelContextProtocol.AspNetCore.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ModelContextProtocol.Core.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/OpenAI.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.ClientModel.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.CodeDom.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Linq.AsyncEnumerable.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Management.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Net.ServerSentEvents.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Numerics.Tensors.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Text.Json.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Threading.Channels.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Management.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.csproj.AssemblyReference.cache
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.AssemblyInfoInputs.cache
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.AssemblyInfo.cs
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.csproj.CoreCompileInputs.cache
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.MvcApplicationPartsAssemblyInfo.cs
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.sourcelink.json
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets.build.json
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets.development.json
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets/msbuild.short-term stay-project.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets/msbuild.build.short-term stay-project.props
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.short-term stay-project.props
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.short-term stay-project.props
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/scopedcss/bundle/short-term stay-project.styles.css
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-te.2E9FBB0B.Up2Date
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/refint/short-term stay-project.dll
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.pdb
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/short-term stay-project.genruntimeconfig.cache
+/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/Debug/net8.0/ref/short-term stay-project.dll

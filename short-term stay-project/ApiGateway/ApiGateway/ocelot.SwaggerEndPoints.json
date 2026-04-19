@@ -7,7 +7,7 @@
           {
             "Name": "Short Stay API",
             "Version": "v1",
-            "Url": "https://wa-short-term.azurewebsites.net/swagger/v1/swagger.json"
+            "Url": "http://localhost:5005/swagger/v1/swagger.json"
           }
         ]
       }

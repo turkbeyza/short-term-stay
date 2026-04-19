@@ -39,16 +39,18 @@ public class ListingService : IListingService
             query = query.Where(l => l.NoOfPeople >= request.NoOfPeople.Value);
 
         if (!string.IsNullOrEmpty(request.Country))
-            query = query.Where(l => l.Country == request.Country);
+            query = query.Where(l => EF.Functions.Like(l.Country, request.Country));
 
         if (!string.IsNullOrEmpty(request.City))
-            query = query.Where(l => l.City == request.City);
+            query = query.Where(l => EF.Functions.Like(l.City, request.City));
 
-        // Date overlap filtering
-        if (request.DateFrom.HasValue && request.DateTo.HasValue)
+        // Date overlap filtering — works if either or both dates provided
+        if (request.DateFrom.HasValue || request.DateTo.HasValue)
         {
-            query = query.Where(l => !l.Bookings.Any(b => 
-                (request.DateFrom < b.To && request.DateTo > b.From)));
+            var from = request.DateFrom ?? DateTime.MinValue;
+            var to = request.DateTo ?? DateTime.MaxValue;
+            query = query.Where(l => !l.Bookings.Any(b =>
+                (from < b.To && to > b.From)));
         }
 
         var projectedQuery = query.Select(l => new ListingResponse(

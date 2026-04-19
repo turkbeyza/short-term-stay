@@ -6,11 +6,24 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using short_term_stay_project.Data;
 using short_term_stay_project.Services;
+using short_term_stay_project.Services.Agent;
+using Microsoft.SemanticKernel;
+using ModelContextProtocol.Server;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllers();
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll",
+        builder => builder
+            .AllowAnyOrigin()
+            .AllowAnyMethod()
+            .WithExposedHeaders("Content-Disposition")
+            .AllowAnyHeader());
+});
 
 // Database Context
 builder.Services.AddDbContext<ShortTermStayDbContext>(options =>
@@ -26,6 +39,27 @@ builder.Services.AddScoped<IListingService, ListingService>();
 builder.Services.AddScoped<IBookingService, BookingService>();
 builder.Services.AddScoped<IReviewService, ReviewService>();
 builder.Services.AddScoped<IFileProcessingService, FileProcessingService>();
+
+// Agent Services
+// ShortStayMcpTools is the single source of truth for all AI tools.
+// AgentPlugin is a thin SK wrapper delegating to ShortStayMcpTools.
+builder.Services.AddSingleton<ShortStayMcpTools>();
+builder.Services.AddTransient<AgentPlugin>();
+builder.Services.AddScoped<IGeminiAgentService, GeminiAgentService>();
+
+// MCP Server — exposes tools via HTTP+SSE at /mcp
+// External clients (Claude Desktop, Cursor) connect here.
+builder.Services.AddMcpServer()
+    .WithHttpTransport(o => o.Stateless = true)
+    .WithTools<ShortStayMcpTools>();
+
+// Semantic Kernel — AgentPlugin delegates to ShortStayMcpTools (no HTTP, direct service calls)
+var geminiSettings = builder.Configuration.GetSection("Gemini");
+builder.Services.AddKernel()
+    .AddGoogleAIGeminiChatCompletion(
+        modelId: geminiSettings["ModelId"] ?? "gemini-1.5-flash",
+        apiKey: geminiSettings["ApiKey"] ?? "")
+    .Plugins.AddFromType<AgentPlugin>("AgentPlugin");
 
 // JWT Authentication
 var jwtSettings = builder.Configuration.GetSection("Jwt");
@@ -111,11 +145,14 @@ var app = builder.Build();
     app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "ShortTermStay API v1"));
 
 
-app.UseHttpsRedirection();
+app.UseCors("AllowAll");
 
 app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
+
+// MCP endpoint — any MCP client can connect to http://localhost:5005/mcp
+app.MapMcp("/mcp");
 
 app.Run();

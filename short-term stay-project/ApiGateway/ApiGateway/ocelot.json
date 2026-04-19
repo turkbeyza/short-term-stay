@@ -4,17 +4,17 @@
         "UpstreamPathTemplate": "/api/v1/{everything}",
         "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
         "DownstreamPathTemplate": "/api/v1/{everything}",
-        "DownstreamScheme": "https",
+        "DownstreamScheme": "http",
         "DownstreamHostAndPorts": [
           {
-            "Host": "wa-short-term.azurewebsites.net",
-            "Port": 443
+            "Host": "localhost",
+            "Port": 5005
           }
         ],
         "SwaggerKey": "shortstay-api"
       }
     ],
     "GlobalConfiguration": {
-      "BaseUrl": "wa-short-term-gateway-faegbyf9exh7d7bz.switzerlandnorth-01.azurewebsites.net"
+      "BaseUrl": "http://localhost:5006"
     }
   }

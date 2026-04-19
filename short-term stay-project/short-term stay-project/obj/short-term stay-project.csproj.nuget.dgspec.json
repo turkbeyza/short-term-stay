@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/short-term stay-project.csproj": {}
+    "/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/short-term stay-project.csproj": {}
   },
   "projects": {
-    "/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/short-term stay-project.csproj": {
+    "/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/short-term stay-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/short-term stay-project.csproj",
+        "projectUniqueName": "/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/short-term stay-project.csproj",
         "projectName": "short-term stay-project",
-        "projectPath": "/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/short-term stay-project.csproj",
+        "projectPath": "/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/short-term stay-project.csproj",
         "packagesPath": "/Users/beyzaturk/.nuget/packages/",
-        "outputPath": "/Users/beyzaturk/Desktop/short-term stay-project/short-term-stay/short-term stay-project/short-term stay-project/obj/",
+        "outputPath": "/Users/beyzaturk/Desktop/short-term-stay/short-term stay-project/short-term stay-project/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/beyzaturk/.nuget/NuGet/NuGet.Config"
@@ -72,6 +72,22 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.12, )"
+            },
+            "Microsoft.SemanticKernel": {
+              "target": "Package",
+              "version": "[1.74.0, )"
+            },
+            "Microsoft.SemanticKernel.Connectors.Google": {
+              "target": "Package",
+              "version": "[1.74.0-alpha, )"
+            },
+            "Microsoft.SemanticKernel.Connectors.OpenAI": {
+              "target": "Package",
+              "version": "[1.74.0, )"
+            },
+            "ModelContextProtocol.AspNetCore": {
+              "target": "Package",
+              "version": "[1.2.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
